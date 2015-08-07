@@ -1,11 +1,11 @@
-# iStat Menus 4 Puppet Module for Boxen
+# iStat Menus 5 Puppet Module for Boxen
 
 Requires the `boxen` puppet module.
 
 ## Usage
 
 ```puppet
-include istatmenus4
+include istatmenus5
 ```
 
 ## Developing

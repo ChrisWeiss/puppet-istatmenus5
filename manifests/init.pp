@@ -1,11 +1,11 @@
-# Public: Install iStatMenus4.app to /Applications.
+# Public: Install iStatMenus5.app to /Applications.
 #
 # Examples
 #
-#   include istatmenus4
-class istatmenus4 {
-  package { 'iStatMenus4':
+#   include istatmenus5
+class istatmenus5 {
+  package { 'iStat Menus':
     provider => 'compressed_app',
-    source   => 'http://s3.amazonaws.com/bjango/files/istatmenus4/istatmenus4.10.zip',
+    source   => 'http://s3.amazonaws.com/bjango/files/istatmenus5/istatmenus5.10.zip',
   }
 }
